@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\bin\Debug\exe.exe.config
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\bin\Debug\exe.exe
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\bin\Debug\exe.pdb
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\obj\Debug\exe.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\obj\Debug\exe.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\obj\Debug\exe.exe
+C:\Users\User\Desktop\שיינדי טקו\תכנות\בבית תשפו\c#\C#\Lesson 2\HWlesson2\exe\obj\Debug\exe.pdb
